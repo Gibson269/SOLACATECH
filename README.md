@@ -1,2 +1,2 @@
 # SOLACATECH
-Building and connecting every tiny pieces of Solacatech website together. Selah!
+Building and connecting every tiny pieces of Solacatech's website together. Selah!
